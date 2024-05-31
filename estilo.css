@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap);
+
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Pixelfy Sans', sans-serif;
+    font-family: 'Pixelfy Sans', 'Courier New', monospace;
 }
 
 body{
